@@ -10,3 +10,7 @@ Relationship between urban population and income per person GDP
 # Data Wrangling
 Data for this project was available as csv files on the gapminder world website. These CSV files were gathered assessed and checked for cleanliness and tidiness. 
 # Data Analysis and Visualization
+Analysis was carried out to answer the above 3 questions with the help of data visualization
+
+## Files included
+The pdf files that were downloaded from Gapminder World are included in the project
